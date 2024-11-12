@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# JUICYLICIOUS APP
+JUICYLICIOUS Mobile App.
 
 # Features
 * Share Projects
